@@ -1,4 +1,4 @@
-C program to check alphabets using Conditional operator
+C program to check alphabets using Ternary operator
 
 #include <stdio.h>
 
